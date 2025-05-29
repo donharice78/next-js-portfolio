@@ -10,7 +10,7 @@ author: You
 
 In Next.js, a **page** is a fhat [React Component](https://reactjs.org/docs/components-and-props.html) exported from a `.js`, `.jsx`, `.ts`, or `.tsx` file in the `pages` directory. Each page is associated with a route based on its file name.
 
-**Example**: If you create `pages/about.js` that exports a React component like below, it will be accessible at `/about`.
+**Example**: If you create `pages/about.js` t a React component like below, it will be accessible at `/about`.
 
 ```js
 function About() {
